@@ -1,5 +1,6 @@
 # GHEAL-BC
 Giel's Health Economic Analysis modeL - Breast Cancer
+
 G.J.W. van Weezel - 10 April 2023
 
 This is the model repository for the discrete event simulation model to accompany my thesis for my Master's in Industrial Engineering and Management - Health Care Technology Management at the University of Twente.
@@ -19,6 +20,7 @@ This repo consists of the following files:
 
 
 Good luck!
+
 Please refer to my thesis when using this in your own research:
 
 Weezel, G.J.W. van. (2023). Health Economic Evaluation of Breast Cancer Screening Strategies.
